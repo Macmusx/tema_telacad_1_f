@@ -9,7 +9,7 @@ def job3dejob (a):
         x.append(aux)
         del a[aux]
     return x
-
+#test_update
 
 with open('test_file', mode='rt', encoding='utf-8') as g:
 
